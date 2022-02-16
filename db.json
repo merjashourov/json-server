@@ -1,0 +1,38 @@
+{
+    "devs": 
+    [
+        {
+            "id"        : 1,
+            "name"      : "Abdul Kadir",
+            "photo"     : "",
+            "skill"     : "App Developer",
+            "location"  : "Cox Bazar"
+        }
+    ],
+
+    "products" : 
+    [
+        {
+            "id"            : 1,
+            "product-photo" : "",
+            "product-title" : "T-Shirt",
+            "price"         : 20.99,
+            "category"      : "men",
+            "description"   : "This is a sample procuct"
+
+        }
+    ],
+
+    "student" : 
+    [
+        {
+            "id"        : 1,
+            "name"      : "Mohammad Bin Kasem",
+            "photo"     : "",
+            "class"     : "10",
+            "age"       : 20,
+            "location"  : "Bandarban"
+        }
+
+    ]
+}
