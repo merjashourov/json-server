@@ -3,24 +3,45 @@
     [
         {
             "id"        : 1,
-            "name"      : "Abdul Kadir",
-            "photo"     : "",
+            "name"      : "Baker Mahmod",
+            "photo"     : "https://media.istockphoto.com/photos/successful-it-developer-picture-id1150528651?b=1&k=20&m=1150528651&s=170667a&w=0&h=T4WzmpkAcVczLPYNGMxmKWYeOIc-9_icEE5ANqFLM5k=",
+            "age"       : 38,
             "skill"     : "App Developer",
             "location"  : "Cox Bazar"
-        }
-    ],
-
-    "products" : 
-    [
+        },
         {
-            "id"            : 1,
-            "product-photo" : "",
-            "product-title" : "T-Shirt",
-            "price"         : 20.99,
-            "category"      : "men",
-            "description"   : "This is a sample procuct"
-
+            "id"        : 2,
+            "name"      : "Hazrat Osmam",
+            "photo"     : "https://media.istockphoto.com/photos/young-african-american-programmer-working-on-desktop-pc-in-the-office-picture-id1137939519?k=20&m=1137939519&s=612x612&w=0&h=wc3pwkFCKmSBac6Ux3YRsQq7gtwyMbD6rQWMKnWBzMM=",
+            "age"       : 27,
+            "skill"     : "Software Developer",
+            "location"  : "Dhaka"
+        },
+        {
+            "id"        : 3,
+            "name"      : "Abu Abdullah",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWz3-nnuuNd-NrQqtoU_moh_5beXDqM8r9LA&usqp=CAU",
+            "age"       : 38,
+            "skill"     : "Backend Developer",
+            "location"  : "Kasmir"
+        },
+        {
+            "id"        : 4,
+            "name"      : "Faza",
+            "photo"     : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIIUQV7pMnWIJCPBfIavacP2-Ml9U3pnDNvg&usqp=CAU",
+            "age"       : 23,
+            "skill"     : "Game Developer",
+            "location"  : "Abu Dabhi"
+        },
+        {
+            "id"        : 5,
+            "name"      : "Anas",
+            "photo"     : "https://media.tourbar.com/photos/4/0/0/5102400/796417/77131_big.jpg?updated=1616293698",
+            "age"       : 31,
+            "skill"     : "React Developer",
+            "location"  : "Islamabad"
         }
+        
     ],
 
     "student" : 
@@ -28,11 +49,120 @@
         {
             "id"        : 1,
             "name"      : "Mohammad Bin Kasem",
-            "photo"     : "",
+            "roll"      : "101",
+            "photo"     : "https://cdn6.dissolve.com/p/D430_50_108/D430_50_108_1200.jpg",
             "class"     : "10",
             "age"       : 20,
             "location"  : "Bandarban"
-        }
+        },
+        {
+            "id"        : 2,
+            "name"      : "Abdur Razzak",
+            "roll"      : "102",
+            "photo"     : "https://t4.ftcdn.net/jpg/02/67/63/27/360_F_267632714_lVq7kUVqtGvdjFBDSseEDNCiTO6ACHSn.jpg",
+            "class"     : "19",
+            "age"       : 20,
+            "location"  : "Sylhet"
 
+        },
+        {
+            "id"        : 3,
+            "name"      : "Abdur Samad",
+            "roll"      : "103",
+            "photo"     : "https://thumbs.dreamstime.com/z/portrait-happy-young-african-male-student-portrait-happy-young-african-male-student-dressed-plaid-shirt-104677818.jpg",
+            "class"     : "10",
+            "age"       : 21,
+            "location"  : "Rangpur"
+
+        },
+        {
+            "id"        : 4,
+            "name"      : "Mhammmad Fatih",
+            "roll"      : "104",
+            "photo"     : "https://thumbs.dreamstime.com/z/attractive-young-male-student-over-white-background-32275592.jpg",
+            "class"     : "9",
+            "age"       : 18,
+            "location"  : "Netrokona"
+
+        },
+        {
+            "id"        : 5,
+            "name"      : "Ali Hasan",
+            "roll"      : "105",
+            "photo"     : "https://previews.123rf.com/images/espies/espies1707/espies170700291/82494060-handsome-and-young-indian-male-college-student-carrying-bag-on-white-background-while-holding-colleg.jpg",
+            "class"     : "8",
+            "age"       : 17,
+            "location"  : "Gazipur"
+        }
+    ],
+
+    "products" : 
+    [
+            {
+                "id"      : 1,
+                "title"   : "Polo T-Shirt",
+                "img"     : "https://cdn.shopify.com/s/files/1/0013/6917/8187/products/SD_03_T28_5000M_P0_X_EC_90_480x.jpg?v=1600066912",
+                "r_price" : "200",
+                "s_price" : "180",
+                "des"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+            },
+            {
+                "id"      : 2,
+                "title"   : "Polo T-Shirt Women",
+                "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+                "r_price" : "150",
+                "s_price" : "130",
+                "color"   : "Pink, Yellow",
+                "des"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+            },
+            {
+                "id"      : 3,
+                "title"   : "Aarong Natural Chinigura Rice",
+                "img"     : "https://i.ibb.co/0Q0t7VS/Aarong-natural-chinigura-rice-1-kg.webp",
+                "r_price" : "200",
+                "s_price" : "180",
+                "color"   : "Red, Blue",
+                "des"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+            },
+            {
+                "id"      : 4,
+                "title"   : "Almer Liquid Dish Wash Combo Offer",
+                "img"     : "https://i.ibb.co/n0G4r21/almer-liquid-dish-wash-combo-offer-250-ml.webp",
+                "r_price" : "250",
+                "s_price" : "230",
+                "color"   : "Pink, Yellow",
+                "des"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+            },
+            {
+                "id"      : 5,
+                "title"   : "Aptamil 2 Follow on Milk-6-12-Months",
+                "img"     : "https://i.ibb.co/y8wNKY1/aptamil-2-follow-on-milk-6-12-months-800-gm.webp",
+                "r_price" : "300",
+                "s_price" : "380",
+                "color"   : "Red, Blue",
+                "des"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+            }
+    ],
+
+    "category" : 
+    [
+        {
+            "id"            : 1,
+            "category-1"    : "Man T-Shirt",
+            "category-2"    : "Woman T-Shirt",
+            "category-3"    : "Child Collection",
+            "category-4"    : "Toys Collection"
+        }
+    ], 
+
+    "brand" : 
+    [
+        {
+            "id"        : 1,
+            "brand-1"   : "Gucci",
+            "brand-2"   : "Nike",
+            "brand-3"   : "Adiddas",
+            "brand-4"   : "American Eagle" 
+        }
     ]
 }
