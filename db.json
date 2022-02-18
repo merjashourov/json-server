@@ -53,7 +53,13 @@
             "photo"     : "https://cdn6.dissolve.com/p/D430_50_108/D430_50_108_1200.jpg",
             "class"     : "10",
             "age"       : 20,
-            "location"  : "Bandarban"
+            "location"  : "Bandarban",
+            "bn"        : 50,
+            "eng"       : 34,
+            "math"      : 55,
+            "sci"       : 98,
+            "ssci"      : 77,
+            "rel"       : 77
         },
         {
             "id"        : 2,
@@ -62,7 +68,13 @@
             "photo"     : "https://t4.ftcdn.net/jpg/02/67/63/27/360_F_267632714_lVq7kUVqtGvdjFBDSseEDNCiTO6ACHSn.jpg",
             "class"     : "19",
             "age"       : 20,
-            "location"  : "Sylhet"
+            "location"  : "Sylhet",
+            "bn"        : 60,
+            "eng"       : 64,
+            "math"      : 85,
+            "sci"       : 78,
+            "ssci"      : 47,
+            "rel"       : 97
 
         },
         {
@@ -72,7 +84,13 @@
             "photo"     : "https://thumbs.dreamstime.com/z/portrait-happy-young-african-male-student-portrait-happy-young-african-male-student-dressed-plaid-shirt-104677818.jpg",
             "class"     : "10",
             "age"       : 21,
-            "location"  : "Rangpur"
+            "location"  : "Rangpur",
+            "bn"        : 56,
+            "eng"       : 74,
+            "math"      : 55,
+            "sci"       : 48,
+            "ssci"      : 77,
+            "rel"       : 47
 
         },
         {
@@ -82,7 +100,13 @@
             "photo"     : "https://thumbs.dreamstime.com/z/attractive-young-male-student-over-white-background-32275592.jpg",
             "class"     : "9",
             "age"       : 18,
-            "location"  : "Netrokona"
+            "location"  : "Netrokona",
+            "bn"        : 45,
+            "eng"       : 44,
+            "math"      : 55,
+            "sci"       : 68,
+            "ssci"      : 47,
+            "rel"       : 73
 
         },
         {
@@ -92,7 +116,13 @@
             "photo"     : "https://previews.123rf.com/images/espies/espies1707/espies170700291/82494060-handsome-and-young-indian-male-college-student-carrying-bag-on-white-background-while-holding-colleg.jpg",
             "class"     : "8",
             "age"       : 17,
-            "location"  : "Gazipur"
+            "location"  : "Gazipur",
+            "bn"        : 40,
+            "eng"       : 84,
+            "math"      : 75,
+            "sci"       : 68,
+            "ssci"      : 57,
+            "rel"       : 27
         }
     ],
 
