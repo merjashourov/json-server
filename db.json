@@ -178,10 +178,24 @@
     [
         {
             "id"            : 1,
-            "category-1"    : "Man T-Shirt",
-            "category-2"    : "Woman T-Shirt",
-            "category-3"    : "Child Collection",
-            "category-4"    : "Toys Collection"
+            "category-1"    : "Mens Fassion"
+        },
+        {
+            "id"            : 2,
+            "category-2"    : "Womans Fassion"
+        },
+        {
+            "id"            : 3,
+            "category-3"    : "Health & Beauty"
+        },
+        {
+            "id"            : 4,
+            "category-4"    : "Babies & Toys"
+        },
+        {
+            "id"            : 5,
+            "category-5"    : "Groceries & Pets"
+            
         }
     ], 
 
@@ -189,10 +203,23 @@
     [
         {
             "id"        : 1,
-            "brand-1"   : "Gucci",
-            "brand-2"   : "Nike",
-            "brand-3"   : "Adiddas",
+            "brand-1"   : "Gucci"
+        },
+        {
+            "id"        : 2,
+            "brand-2"   : "Nike"
+        },
+        {
+            "id"        : 3,
+            "brand-3"   : "Adiddas"
+        },
+        {
+            "id"        : 4,
             "brand-4"   : "American Eagle" 
+        },
+        {
+            "id"        : 5,
+            "brand-5"   : "Apple"
         }
     ]
 }
